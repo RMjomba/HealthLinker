@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HealthLinker</string>
+    <string name="title_activity_doctor_login">DoctorLoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_patient_login">PatientLoginActivity</string>
+    <string name="title_activity_doctor_registration">DoctorRegistrationActivity</string>
+    <string name="title_activity_patient_registration">PatientRegistrationActivity</string>
+    <string name="title_activity_otp_verification">OtpVerificationActivity</string>
+    <string name="title_activity_doctor_home">DoctorHomeActivity</string>
+    <string name="title_activity_patient_home_avtivity">PatientHomeAvtivity</string>
+    <string name="title_activity_patient_otp_verification">PatientOtpVerificationActivity</string>
+</resources>

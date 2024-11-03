@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "658888718141",
+    "firebase_url": "https://health-linker-586c1-default-rtdb.firebaseio.com",
+    "project_id": "health-linker-586c1",
+    "storage_bucket": "health-linker-586c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658888718141:android:16eb38879ebf2bbab33754",
+        "android_client_info": {
+          "package_name": "com.reginaldateya.healthlinker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmuUgkOW15rRC24l0nkzk57JEuL2lsYUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
